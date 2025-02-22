@@ -634,6 +634,7 @@ form input {
     .filler-text {
         text-align: center;
     }
+    
     .left-section {
         grid-template-columns: repeat(2, 1fr);
         padding-top: 2rem;
